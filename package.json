@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "stackblitz": {
-    "startCommand": "npx http-server"
+    "startCommand": "npm i && npx http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
   }
 }
