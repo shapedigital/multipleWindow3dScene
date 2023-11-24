@@ -1,0 +1,14 @@
+{
+  "name": "multiplewindow3dscene",
+  "version": "1.0.0",
+  "description": "A simple example showing how to setup a 3d scene across windows on the same origin using three.js and localStorage. Code should be self explanatory",
+  "main": "main.js",
+  "scripts": {
+    "run": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "stackblitz": {
+    "startCommand": "npx http-server"
+  }
+}
